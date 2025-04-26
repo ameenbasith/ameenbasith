@@ -1,11 +1,9 @@
-<div align="center">👨‍💻 AMEEN BASITH</div>
+# <div align="center">👨‍💻 AMEEN BASITH</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Data+%26+Cybersecurity+Analyst;Automation+Specialist;Business+Intelligence+Analyst;Python+%26+SQL+Enthusiast" alt="Typing SVG" />
 </div>
 <div align="center">
-  <a href="mailto:ameenbasith2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://linkedin.com/in/ameen-basith-hello">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -13,9 +11,10 @@
     <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-✨ About Me
-pythonclass AmeenBasith:
-    def __init__(self):
+## ✨ About Me
+python
+class AmeenBasith:
+    def **init**(self):
         self.name = "Ameen Basith"
         self.location = "Irvine, CA"
         self.education = {
@@ -26,14 +25,15 @@ pythonclass AmeenBasith:
         }
         self.current_role = "Data/Cybersecurity Analyst @ Catalyst Healthcare Analytics"
         self.interests = ["Data Analytics", "Process Automation", "Cybersecurity", "ETL Pipelines"]
-
     def get_skills(self):
         return {
             "languages": ["Python", "SQL", "VBA", "R"],
             "tools": ["Excel", "Power BI", "Microsoft Azure", "Power Automate", "Azure Active Directory"],
             "specialties": ["ETL Development", "Automation", "Data Validation", "API Integration"]
         }
+        
 I'm a data professional with a strong background in automation and analytics, focused on creating efficient solutions that transform complex data challenges into actionable insights.
+
 ## 📊 Experience
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenbasith&layout=compact&theme=tokyonight" />
