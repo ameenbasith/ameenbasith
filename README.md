@@ -46,18 +46,8 @@ I'm a data professional with a strong background in automation and analytics, fo
 ### 🏥 **Data/Cybersecurity Analyst** | Catalyst Healthcare Analytics 
 *June 2024 - Present*
 
-- ⚙️ Administered Azure user accounts & access controls for cross-functional teams
-- 📈 Established data validation procedures reducing errors by 35%
-- 🔄 Developed Python automation scripts for efficient data processing
-- 🚀 Created VBA tools processing 10K+ records in minutes (140% efficiency gain)
-- 🔍 Implemented Power Automate workflows for anomaly detection (60% time reduction)
-
 ### 🚗 **Business Intelligence Intern** | Bassett Motors
 *May 2023 - October 2023*
-
-- 📋 Organized requirements data using SQL across 3 departmental systems
-- 🔄 Built Python automation tools to validate data consistency
-- 🤝 Translated complex data insights for cross-functional teams
 
 ## 🛠️ Technical Toolkit
 
