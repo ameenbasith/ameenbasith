@@ -5,13 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:ameenbasith2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://linkedin.com/in/ameen-basith">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YourGitHubUsername?tab=repositories">
+  <a href="https://github.com/ameenbasith?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -44,7 +41,7 @@ I'm a data professional with a strong background in automation and analytics, fo
 
 ## 📊 Experience
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenbasith&layout=compact&theme=tokyonight" />
 
 ### 🏥 **Data/Cybersecurity Analyst** | Catalyst Healthcare Analytics 
 *June 2024 - Present*
@@ -77,15 +74,6 @@ I'm a data professional with a strong background in automation and analytics, fo
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/YourGitHubUsername/voter-vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=voter-vision&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/YourGitHubUsername/kidney-disease-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=kidney-disease-tracker&theme=tokyonight" />
-  </a>
-</div>
-
 ### 🗳️ Voter Vision: Demographic Trends Analyzer
 
 *Python • SQL • Power BI*
@@ -114,13 +102,6 @@ An end-to-end healthcare data solution that:
 
 - Dean's Lists (Biology and Computer Science) 2018-2023
 - Relevant Coursework: Statistics, Databases, Machine Learning, Data Structures, Algorithms
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,prs&theme=tokyonight" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
 
 ---
 
