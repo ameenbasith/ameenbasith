@@ -64,6 +64,18 @@ I'm a data professional with a strong background in automation and analytics, fo
 
 ## 🚀 Featured Projects
 
+### 🎵 Genius Lyrics Analyzer & Songwriter's Workshop
+
+*Python • Streamlit • API Integration • NLP*
+
+An advanced lyrics analysis application that:
+ - Extracts and processes data from Genius.com via API
+ - Calculates lexical diversity, annotation density, and sentiment metrics
+ - Visualizes song complexity with interactive charts and dashboards
+ - Features a real-time songwriter's workshop for creative applications
+ - Delivers actionable insights through customized data pipelines
+ - Implements NLP techniques for rhyme pattern detection and theme analysis
+
 ### 🗳️ Voter Vision: Demographic Trends Analyzer
 
 *Python • SQL • Power BI*
