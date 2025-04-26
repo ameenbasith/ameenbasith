@@ -8,11 +8,11 @@
   <a href="https://medium.com/@ameenbasith2000">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://ameen.blog">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://linkedin.com/in/ameen-basith-hello">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ameen.blog">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ameenbasith?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
