@@ -115,5 +115,5 @@ An end-to-end healthcare data solution that:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=0e75b6&style=flat" alt="Profile views" />
-  <p>💼 <i>Currently open to new opportunities in data analytics and cybersecurity</i> 💼</p>
+  <p>💼 <i>Currently open to new opportunities in data analytics and data science</i> 💼</p>
 </div>
