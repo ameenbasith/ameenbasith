@@ -32,7 +32,7 @@ class AmeenBasith:
             "gpa": "3.96/4.00",
             "honors": "Summa Cum Laude"
         }
-        self.current_role = "Data/Cybersecurity Analyst @ Catalyst Healthcare Analytics"
+        self.current_role = "Data Analyst @ Catalyst Healthcare Analytics"
         self.interests = ["Data Analytics", "Process Automation", "Cybersecurity", "ETL Pipelines"]
 
     def get_skills(self):
@@ -49,7 +49,7 @@ I'm a data professional with a strong background in automation and analytics, fo
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenbasith&layout=compact&theme=tokyonight" />
 
-### 🏥 **Data/Cybersecurity Analyst** | Catalyst Healthcare Analytics 
+### 🏥 **Data Analyst** | Catalyst Healthcare Analytics 
 *June 2024 - Present*
 
 ### 🚗 **Business Intelligence Intern** | Bassett Motors
