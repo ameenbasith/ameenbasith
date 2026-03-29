@@ -4,7 +4,7 @@
 
 ---
 
-Analytics Engineer based in Irvine, CA.
+Analytics Engineer
 
 At **Catalyst Healthcare Analytics** I build the data infrastructure powering finance, operations, and clinical analytics for multi-site medical groups — from raw source data to production-ready models at scale.
 
