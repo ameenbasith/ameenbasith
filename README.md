@@ -1,41 +1,66 @@
 # Ameen Basith
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameen-basith-hello) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ameenbasith2000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameen-basith-hello)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ameenbasith2000)
 
 ---
 
-Analytics Engineer
+## Software Engineer | Data Applications
 
-At **Catalyst Healthcare Analytics** I build the data infrastructure powering finance, operations, and clinical analytics for multi-site medical groups — from raw source data to production-ready models at scale.
+I'm a software engineer with a background in data analytics and information security, currently building production healthcare applications with **React, TypeScript, Python, Django, SQL, and Azure**.
 
----
-
-## What I build
-
-- **dbt modeling layer** — 373 tables in production with schema tests and source documentation
-- **LLM classification pipelines** — billing anomaly detection and discharge summary generation (93% accuracy, 70% manual review reduction)
-- **Python ETL** — containerized with Docker, deployed via Azure DevOps CI/CD
-- **SQL reporting layer** — 20+ Power BI dashboards serving 50–200 stakeholders across leadership, finance, and operations
-- **Data validation frameworks** — reconciliation, cleansing, and audit pipelines across 250K+ healthcare records
+My work sits at the intersection of software and data: building user-facing features, automating operational workflows, debugging data issues, integrating cloud storage and APIs, and translating business requirements into reliable production systems.
 
 ---
 
-## Stack
+## What I work on
 
-**Data Engineering:** dbt · Docker · Azure (Data Factory, DevOps) · CI/CD (GitHub Actions) · ETL/ELT · Git · Linux
+- **Full-stack applications** — React, TypeScript, Django, Python, SQL, REST APIs
+- **Workflow automation** — production processes, notifications, reporting, and data-driven business logic
+- **Data applications** — filtering, dashboards, operational analytics, and SQL-backed internal tools
+- **Backend integrations** — Azure File Share, application data, document paths, JSON manifests, and error handling
+- **Data modeling & analytics engineering** — SQL, dbt Core, data validation, source documentation, and reporting
+- **Testing & delivery** — pytest, Git, Azure DevOps, code review, CI/CD, QA, and debugging
 
-**Languages:** Python (pandas, scikit-learn, Streamlit) · SQL (CTEs, window functions, aggregations) · Bash
+---
 
-**Analytics & BI:** Power BI · Tableau · LLM Integration · Machine Learning · Data Validation
+## Selected Projects
+
+### Genius Lyrics Analyzer & Songwriter's Workshop
+**Python · Streamlit · Genius API · Pandas · NLTK · scikit-learn**
+
+Interactive application that analyzes song lyrics for vocabulary richness, annotation density, sentiment, and complexity, then turns those insights into real-time songwriting feedback.
+
+[View project](https://github.com/ameenbasith/genius-scrape)
+
+### PredictWise
+**Python · scikit-learn · XGBoost · Random Forest · Streamlit**
+
+Financial analytics and modeling project using 30+ predictive indicators to compare machine-learning approaches and surface model-generated insights.
+
+[View project](https://github.com/ameenbasith/stock-tracker)
+
+---
+
+## Tech
+
+**Languages:** Python · TypeScript · JavaScript · SQL · Java · C/C++
+
+**Frontend:** React · HTML · CSS/SCSS · Streamlit
+
+**Backend:** Django · REST APIs · JSON
+
+**Data:** PostgreSQL · Azure SQL · SQL Server · pandas · NumPy · dbt Core · Power BI
+
+**Engineering:** Git · Azure DevOps · CI/CD · pytest · code review · debugging · Azure
 
 ---
 
 ## Education
 
-B.S. Computer Science · San Diego State University · GPA 3.96/4.00 · Summa Cum Laude · 2024
+**B.S. Computer Science**  
+San Diego State University · GPA 3.96/4.00 · Summa Cum Laude · May 2023
 
 ---
 
-*Open to Analytics Engineer and BI Engineer roles — Remote, New York, or Los Angeles.*
-
-💫 ameenbasith2000@gmail.com
+*Open to Software Engineer, Full-Stack Engineer, Data Applications Engineer, and Analytics Engineer opportunities.*
