@@ -1,66 +1,60 @@
 # Ameen Basith
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameen-basith-hello)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ameenbasith2000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ameen-basith-hello)
 
 ---
 
-## Software Engineer | Data Applications
+## Full-Stack Software Engineer
 
-I'm a software engineer with a background in data analytics and information security, currently building production healthcare applications with **React, TypeScript, Python, Django, SQL, and Azure**.
+I build production healthcare applications using **React, TypeScript, Python, Django, SQL, and Azure**.
 
-My work sits at the intersection of software and data: building user-facing features, automating operational workflows, debugging data issues, integrating cloud storage and APIs, and translating business requirements into reliable production systems.
+At Catalyst Clinical & Coding Analytics, I work across frontend interfaces, backend APIs, database logic, document-generation systems, cloud-storage integrations, automated testing, and production troubleshooting.
 
----
-
-## What I work on
-
-- **Full-stack applications** — React, TypeScript, Django, Python, SQL, REST APIs
-- **Workflow automation** — production processes, notifications, reporting, and data-driven business logic
-- **Data applications** — filtering, dashboards, operational analytics, and SQL-backed internal tools
-- **Backend integrations** — Azure File Share, application data, document paths, JSON manifests, and error handling
-- **Data modeling & analytics engineering** — SQL, dbt Core, data validation, source documentation, and reporting
-- **Testing & delivery** — pytest, Git, Azure DevOps, code review, CI/CD, QA, and debugging
+My earlier experience in data analytics and information security gives me additional depth in data quality, healthcare operations, secure application development, and translating business requirements into reliable software.
 
 ---
 
-## Selected Projects
+## Engineering Focus
 
-### Genius Lyrics Analyzer & Songwriter's Workshop
-**Python · Streamlit · Genius API · Pandas · NLTK · scikit-learn**
-
-Interactive application that analyzes song lyrics for vocabulary richness, annotation density, sentiment, and complexity, then turns those insights into real-time songwriting feedback.
-
-[View project](https://github.com/ameenbasith/genius-scrape)
-
-### PredictWise
-**Python · scikit-learn · XGBoost · Random Forest · Streamlit**
-
-Financial analytics and modeling project using 30+ predictive indicators to compare machine-learning approaches and surface model-generated insights.
-
-[View project](https://github.com/ameenbasith/stock-tracker)
+* **Full-stack development** : React, TypeScript, Django, Python, SQL, HTML, and CSS/SCSS
+* **Backend systems** : REST APIs, business logic, document processing, relational databases, and Azure integrations
+* **Reliability and testing** : pytest, validation, error handling, rollback-safe workflows, debugging, and production fixes
+* **Software delivery** : Git, code review, CI/CD, QA, and release workflows through Azure DevOps
 
 ---
 
-## Tech
+## Professional Work
 
-**Languages:** Python · TypeScript · JavaScript · SQL · Java · C/C++
+* Build and maintain end-to-end features for Haystack, a production healthcare claims platform used by clinical and operational teams.
+* Developed bulk correspondence workflows that generate PDF and Excel documents, assemble structured patient data, and package claim outputs for downstream processing.
+* Designed a rollback-safe synchronization workflow for patient updates across application data, Azure File Shares, stored document paths, and JSON manifests.
+* Delivered frontend and backend enhancements across clinical, outreach, and correspondence workflows, including filtering, bulk actions, review controls, and claims-level validation.
+* Migrated legacy C#/.NET reporting processes to Python workflows using pandas and NumPy.
+* Write automated tests and contribute to production debugging, code reviews, QA, and release delivery.
 
-**Frontend:** React · HTML · CSS/SCSS · Streamlit
+---
 
-**Backend:** Django · REST APIs · JSON
+## Technologies
 
-**Data:** PostgreSQL · Azure SQL · SQL Server · pandas · NumPy · dbt Core · Power BI
+**Languages:** Python · TypeScript · JavaScript · SQL
 
-**Engineering:** Git · Azure DevOps · CI/CD · pytest · code review · debugging · Azure
+**Frontend:** React · HTML · CSS/SCSS
+
+**Backend:** Django · REST APIs
+
+**Databases:** PostgreSQL · Azure SQL · SQL Server
+
+**Cloud and delivery:** Azure · Azure File Share · Azure DevOps · Git · CI/CD
+
+**Testing and data processing:** pytest · pandas · NumPy
 
 ---
 
 ## Education
 
-**B.S. Computer Science**  
-San Diego State University · GPA 3.96/4.00 · Summa Cum Laude · May 2023
+**B.S. Computer Science**
+San Diego State University · 3.96/4.00 GPA · Summa Cum Laude · May 2023
 
 ---
 
-*Open to Software Engineer, Full-Stack Engineer, Data Applications Engineer, and Analytics Engineer opportunities.*
+*Open to Software Engineer, Full-Stack Engineer, Python Backend Engineer, and Data Applications Engineer opportunities.*
